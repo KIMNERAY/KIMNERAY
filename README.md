@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Hola+Viajero+%F0%9F%8C%B1;Te+invito+a+tomarte+un+descanso.+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&multiline=true&repeat=true&width=435&lines=Hola+Viajero+%F0%9F%8C%B1;Te+invito+a+tomarte+un+descanso.+%E2%9C%A8" alt="Typing SVG" /></a>
 <br><br>
 </div>
 Hola, mi nombre es Gael Pinacho y soy un estudiante de la UNSIS (Universidad de la Sierra Sur) en la Licencitura en Informática.
