@@ -1,4 +1,4 @@
-## Hi there 👋
+## Konichiwa 👋
 
 <!--
 **KIMNERAY/KIMNERAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +41,7 @@ Hola, mi nombre es Gael Pinacho y soy un estudiante de la UNSIS (Universidad de 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=KIMNERAY&count_private=true&show_icons=true&include_all_commits=true)
+![KIMNERAY Github Stats](https://github-readme-stats.vercel.app/api?username=KIMNERAY&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMNERAY&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KIMNERAY.KIMNERAY)
