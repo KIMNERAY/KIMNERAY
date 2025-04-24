@@ -42,6 +42,6 @@ Hola, mi nombre es Gael Pinacho y soy un estudiante de la UNSIS (Universidad de 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![KIMNERAY Github Stats](https://github-readme-stats.vercel.app/api?username=KIMNERAY&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMNERAY&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMNERAY&hide=TeX&layout=compact&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KIMNERAY.KIMNERAY)
